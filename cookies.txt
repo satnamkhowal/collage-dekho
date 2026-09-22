@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.collegedekho.com	TRUE	/	FALSE	1999999999	iluser	yes
+www.collegedekho.com	TRUE	/	FALSE	1999999999	sessionid	uhtnsempsqwn2d097rvib0utp4gynwps
+www.collegedekho.com	TRUE	/	FALSE	1999999999	csrftoken	mT37aLsT2iHpdvdRqy2WgUMAIM0pYe2odpJr1A27enhpdJFIa6eaCeBEoXcZnKQG
+www.collegedekho.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
