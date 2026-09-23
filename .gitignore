@@ -1,0 +1,38 @@
+# ZIP files
+*.zip
+
+# Environment files
+.env
+.env.*
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build / Cache
+dist/
+build/
+.cache/
+tmp/
+temp/
+
+# PHP
+vendor/
+
+# Backup files
+*.bak
+*.tmp
+*.swp
