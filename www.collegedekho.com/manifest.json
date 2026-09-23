@@ -1,0 +1,26 @@
+{
+  "lang": "en",
+  "dir": "ltr",
+  "name": "CollegeDekho",
+  "short_name": "CollegeDekho",
+  "start_url": "/?utm_source=web_app_manifest",
+  "display": "standalone",
+  "gcm_sender_id": "299547491603",
+  "orientation": "portrait",
+  "theme_color": "#503287",
+  "background_color": "#503287",
+  "icons": [
+    {
+      "src": "https://static.collegedekho.com/static/icons/collegeDekho-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "prefer_related_applications": false,
+  "related_applications": [
+    {
+      "platform": "play",
+      "id": "com.collegedekho.app"
+    }
+  ]
+}
