@@ -352,3 +352,4 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 20:05:35	Warning: 	Permanent Redirect for https://www.collegedekho.com/courses/bachelor-of-unani-medicine-and-surgery-bums/
 20:05:35	Warning: 	File has moved from https://www.collegedekho.com/courses/bachelor-of-unani-medicine-and-surgery-bums/ to /courses/bachelor-of-unani-medicine-and-surgery-bums
 21:11:26	Error: 	"Not Found" (404) at link https://www.collegedekho.com/courses/mca (from https://www.collegedekho.com/)
+09:34:46	Warning: 	Link https://www.collegedekho.com/college-admission-form-etp not scanned (follow robots meta tag)
