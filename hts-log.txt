@@ -452,3 +452,6 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 09:36:36	Error: 	"Not Found" (404) at link https://www.collegedekho.com/bsc-microbiology-science-colleges-in-rajasthan-listing-2391-2040-1759/ (from https://www.collegedekho.com/colleges/jaipur-national-university)
 09:41:26	Warning: 	Moved Permanently for https://www.collegedekho.com/medical/nursing-colleges-in-jaipur/
 09:41:26	Warning: 	File has moved from https://www.collegedekho.com/medical/nursing-colleges-in-jaipur/ to /nursing-care/nursing-colleges-in-jaipur/
+09:41:56	Warning: 	Permanent Redirect for https://www.collegedekho.com/colleges/android-app://com.collegedekho.app/https/www.collegedekho.com/fragment_institute_list/institutes/3271/
+09:41:56	Warning: 	File has moved from https://www.collegedekho.com/colleges/android-app://com.collegedekho.app/https/www.collegedekho.com/fragment_institute_list/institutes/3271/ to /colleges/android-app:/com.collegedekho.app/https/www.collegedekho.com/fragment_institute_list/institutes/3271
+09:42:23	Warning: 	Link https://www.collegedekho.com/reviews/add-and-earn?institute-id=3271 not scanned (follow robots meta tag)
