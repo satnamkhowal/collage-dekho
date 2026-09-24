@@ -353,3 +353,88 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 20:05:35	Warning: 	File has moved from https://www.collegedekho.com/courses/bachelor-of-unani-medicine-and-surgery-bums/ to /courses/bachelor-of-unani-medicine-and-surgery-bums
 21:11:26	Error: 	"Not Found" (404) at link https://www.collegedekho.com/courses/mca (from https://www.collegedekho.com/)
 09:34:46	Warning: 	Link https://www.collegedekho.com/college-admission-form-etp not scanned (follow robots meta tag)
+10:03:39	Warning: 	Link https://www.collegedekho.com/reviews/add-and-earn not scanned (follow robots meta tag)
+10:05:11	Warning: 	Permanent Redirect for https://www.collegedekho.com/about-us/
+10:05:11	Warning: 	File has moved from https://www.collegedekho.com/about-us/ to /about-us
+10:05:11	Warning: 	Permanent Redirect for https://www.collegedekho.com/contact-us/
+10:05:11	Warning: 	File has moved from https://www.collegedekho.com/contact-us/ to /contact-us
+10:43:20	Warning: 	Permanent Redirect for https://www.collegedekho.com/terms-and-conditions-refund-policy/
+10:43:20	Warning: 	File has moved from https://www.collegedekho.com/terms-and-conditions-refund-policy/ to /terms-and-conditions-refund-policy
+10:43:20	Warning: 	Permanent Redirect for https://www.collegedekho.com/privacy-policy/
+10:43:20	Warning: 	File has moved from https://www.collegedekho.com/privacy-policy/ to /privacy-policy
+10:43:24	Warning: 	Link https://www.collegedekho.com/assured/b-des not scanned (follow robots meta tag)
+10:43:24	Warning: 	Link https://www.collegedekho.com/assured/mdes not scanned (follow robots meta tag)
+10:43:24	Error: 	"Not Found" (404) at link https://www.collegedekho.com/university/hindustan-university-etp-program (from https://www.collegedekho.com/assured)
+10:43:24	Error: 	"Not Found" (404) at link https://www.collegedekho.com/university/vidhyadeep-universitysurat-ixp-etp-program (from https://www.collegedekho.com/assured)
+10:43:24	Error: 	"Not Found" (404) at link https://www.collegedekho.com/colleges/collegedekho-job-assured-etp-program (from https://www.collegedekho.com/assured)
+10:43:24	Error: 	"Not Found" (404) at link https://www.collegedekho.com/university/coer-university-roorkee-etp-program (from https://www.collegedekho.com/assured)
+10:59:35	Warning: 	Link https://www.collegedekho.com/colleges/sms-college-of-arts-science-etp-program not scanned (follow robots meta tag)
+11:00:05	Warning: 	Link https://www.collegedekho.com/colleges/blue-vector-consulting-pvt-ltd-etp-program not scanned (follow robots meta tag)
+11:03:43	Error: 	"Not Found" (404) at link https://img.youtube.com/vi/aLsT41WpgiA/hqdefault.jpg?width=1080&q=80 (from https://www.collegedekho.com/assured)
+11:03:43	Error: 	"Not Found" (404) at link https://www.collegedekho.com/news/gate-2027-registration-ongoing-last-date-steps-to-fill-application-80049/android-app://com.collegedekho.app/https/www.collegedekho.com/fragment_news_list/personalize/news/86927/ (from https://www.collegedekho.com/news/gate-2027-registration-ongoing-last-date-steps-to-fill-application-80049/)
+11:05:58	Error: 	"Not Found" (404) at link https://www.collegedekho.com/news/maharashtra-bsc-nursing-round-2-seat-matrix-2026-releasing-on-september-21-medical2026mahacetorg-80058/android-app://com.collegedekho.app/https/www.collegedekho.com/fragment_news_list/personalize/news/86923/ (from https://www.collegedekho.com/news/maharashtra-bsc-nursing-round-2-seat-matrix-2026-releasing-on-september-21-medical2026mahacetorg-80058/)
+11:06:21	Error: 	"Not Found" (404) at link https://www.collegedekho.com/news/maharashtra-bams-bhms-bums-provisional-merit-list-2026-today-on-sept-20-at-medical2026mahacetorg-80013/android-app://com.collegedekho.app/https/www.collegedekho.com/fragment_news_list/personalize/news/86924/ (from https://www.collegedekho.com/news/maharashtra-bams-bhms-bums-provisional-merit-list-2026-today-on-sept-20-at-medical2026mahacetorg-80013/)
+11:07:00	Error: 	"Not Found" (404) at link https://www.collegedekho.com/news/mah-gnm-cap-round-2-seat-matrix-2026-september-21-80038/android-app://com.collegedekho.app/https/www.collegedekho.com/fragment_news_list/personalize/news/86910/ (from https://www.collegedekho.com/news/mah-gnm-cap-round-2-seat-matrix-2026-september-21-80038/)
+11:07:01	Error: 	"Not Found" (404) at link https://www.collegedekho.com/news/maharashtra-state-cet-cell-to-release-pgd-round-2-seat-matrix-2026-on-sept-21-view-category-wise-vacancies-80047/android-app://com.collegedekho.app/https/www.collegedekho.com/fragment_news_list/personalize/news/86918/ (from https://www.collegedekho.com/news/maharashtra-state-cet-cell-to-release-pgd-round-2-seat-matrix-2026-on-sept-21-view-category-wise-vacancies-80047/)
+11:07:23	Error: 	"Not Found" (404) at link https://www.collegedekho.com/news/mp-anm-gnm-2026-seat-allotment-result-for-final-round-releasing-today-know-when-result-link-will-be-activated-80048/android-app://com.collegedekho.app/https/www.collegedekho.com/fragment_news_list/personalize/news/86920/ (from https://www.collegedekho.com/news/mp-anm-gnm-2026-seat-allotment-result-for-final-round-releasing-today-know-when-result-link-will-be-activated-80048/)
+11:07:40	Error: 	"Not Found" (404) at link https://www.collegedekho.com/news/bihar-ugmac-round-2-rank-card-2026-releasing-on-september-20-bceceboardbihargovin-80046/android-app://com.collegedekho.app/https/www.collegedekho.com/fragment_news_list/personalize/news/86913/ (from https://www.collegedekho.com/news/bihar-ugmac-round-2-rank-card-2026-releasing-on-september-20-bceceboardbihargovin-80046/)
+11:07:42	Error: 	"Not Found" (404) at link https://www.collegedekho.com/news/maharashtra-hsc-ssc-2027-exam-dates-out-know-when-the-exam-will-be-conducted-80015/android-app://com.collegedekho.app/https/www.collegedekho.com/fragment_news_list/personalize/news/86911/ (from https://www.collegedekho.com/news/maharashtra-hsc-ssc-2027-exam-dates-out-know-when-the-exam-will-be-conducted-80015/)
+11:08:36	Error: 	"Not Found" (404) at link https://www.collegedekho.com/news/jharkhand-bsc-agriculture-round-1-seat-allotment-result-releasing-on-september-18-jcecebjharkhandgovin-80090/android-app://com.collegedekho.app/https/www.collegedekho.com/fragment_news_list/personalize/news/86908/ (from https://www.collegedekho.com/news/jharkhand-bsc-agriculture-round-1-seat-allotment-result-releasing-on-september-18-jcecebjharkhandgovin-80090/)
+11:08:56	Error: 	"Not Found" (404) at link https://www.collegedekho.com/news/ap-pgcet-2026-phase-1-seat-allotment-result-on-september-21-release-time-analysis-80008/android-app://com.collegedekho.app/https/www.collegedekho.com/fragment_news_list/personalize/news/86905/ (from https://www.collegedekho.com/news/ap-pgcet-2026-phase-1-seat-allotment-result-on-september-21-release-time-analysis-80008/)
+11:34:44	Warning: 	Moved Permanently for https://www.collegedekho.com/articles/jee-main-2024-syllabus/
+11:34:44	Warning: 	File has moved from https://www.collegedekho.com/articles/jee-main-2024-syllabus/ to https://www.collegedekho.com/exam/jee-main/syllabus
+11:34:44	Warning: 	Moved Permanently for www.collegedekho.com/robots.txt
+11:34:44	Warning: 	File has moved from www.collegedekho.com/robots.txt to https://www.collegedekho.com:443/robots.txt
+11:34:44	Warning: 	Moved Permanently for www.collegedekho.com/articles/jee-main-exam-centres/
+11:34:44	Warning: 	File has moved from www.collegedekho.com/articles/jee-main-exam-centres/ to https://www.collegedekho.com:443/articles/jee-main-exam-centres/
+12:01:22	Warning: 	Moved Permanently for https://www.collegedekho.com/engineering/distance_learning-colleges-in-india/
+12:01:22	Warning: 	File has moved from https://www.collegedekho.com/engineering/distance_learning-colleges-in-india/ to /engineering/distance-learning-colleges-in-india-listing-1711-21386-19163/
+14:47:53	Error: 	"Not Found" (404) at link https://www.collegedekho.com/university/madhya-pradesh-medical-science-university-mpmsu-jabalpur (from https://www.collegedekho.com/exam/jee-main/previous-year-question-papers)
+15:08:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://cdn.datatables.net/1.10.15/images/sort_desc.png
+15:08:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://cdn.datatables.net/1.10.15/images/sort_asc_disabled.png
+15:08:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://cdn.datatables.net/1.10.15/images/sort_desc_disabled.png
+15:12:31	Error: 	"Not Found" (404) at link https://www.collegedekho.com/news/jee-main-predicted-percentile-score-january-2026-session-1-live-updates-76672/android-app://com.collegedekho.app/https/www.collegedekho.com/fragment_news_list/personalize/news/83350/ (from https://www.collegedekho.com/news/jee-main-predicted-percentile-score-january-2026-session-1-live-updates-76672/)
+15:15:31	Error: 	"Not Found" (404) at link https://www.collegedekho.com/news/jee-main-unofficial-answer-key-21-january-2026-live-updates-subject-expert-coaching-institute-answer-keys-76615/android-app://com.collegedekho.app/https/www.collegedekho.com/fragment_news_list/personalize/news/83345/ (from https://www.collegedekho.com/news/jee-main-unofficial-answer-key-21-january-2026-live-updates-subject-expert-coaching-institute-answer-keys-76615/)
+15:15:58	Error: 	"Not Found" (404) at link https://www.collegedekho.com/news/live-jee-main-question-paper-2026-january-21-memory-based-questions-physics-chemistry-and-mathematics-76696/android-app://com.collegedekho.app/https/www.collegedekho.com/fragment_news_list/personalize/news/83326/ (from https://www.collegedekho.com/news/live-jee-main-question-paper-2026-january-21-memory-based-questions-physics-chemistry-and-mathematics-76696/)
+15:16:30	Error: 	"Not Found" (404) at link https://www.collegedekho.com/articles/icar-ug-counselling-dates-2025-registration-choice-filling-seat-allotment/android-app://com.collegedekho.app/https/www.collegedekho.com/fragment_news_list/personalize/news/74850/ (from https://www.collegedekho.com/articles/icar-ug-counselling-dates-2025-registration-choice-filling-seat-allotment/)
+15:18:18	Warning: 	Found for https://www.collegedekho.com/author/Rito_Prasad/
+15:18:18	Warning: 	File has moved from https://www.collegedekho.com/author/Rito_Prasad/ to /author/rito_prasad/?
+15:25:06	Warning: 	Moved Permanently for https://www.collegedekho.com/agriculture/colleges-in-india/
+15:25:06	Warning: 	File has moved from https://www.collegedekho.com/agriculture/colleges-in-india/ to /agriculture-colleges-in-india/
+15:26:27	Error: 	"Not Found" (404) at link https://www.collegedekho.com/articles/ap-eamcet-second-phase-counselling-2025-dates-web-options-seat-allotment/android-app://com.collegedekho.app/https/www.collegedekho.com/fragment_news_list/personalize/news/74788/ (from https://www.collegedekho.com/articles/ap-eamcet-second-phase-counselling-2025-dates-web-options-seat-allotment/)
+15:33:26	Warning: 	Moved Permanently for https://www.collegedekho.com/btech_mtech-colleges-in-india/
+15:33:26	Warning: 	File has moved from https://www.collegedekho.com/btech_mtech-colleges-in-india/ to /btech-mtech-colleges-in-india-listing-3299-19163/
+15:33:37	Error: 	"Not Found" (404) at link https://www.collegedekho.com/articles/expected-rank-for-500-marks-in-neet-pg-2025/android-app://com.collegedekho.app/https/www.collegedekho.com/fragment_news_list/personalize/news/75099/ (from https://www.collegedekho.com/articles/expected-rank-for-500-marks-in-neet-pg-2025/)
+15:46:44	Warning: 	Moved Permanently for https://www.collegedekho.com/md_2-colleges-in-india/
+15:46:44	Warning: 	File has moved from https://www.collegedekho.com/md_2-colleges-in-india/ to /md-2-colleges-in-india-listing-3378-19163/
+16:22:09	Warning: 	Link https://www.collegedekho.com/colleges/srm-university-2-reviews not scanned (follow robots meta tag)
+16:22:20	Warning: 	Link https://www.collegedekho.com/colleges/srm-university-2-placement not scanned (follow robots meta tag)
+16:37:15	Warning: 	Moved Permanently for https://www.collegedekho.com/mba_degree-colleges-in-india/
+16:37:15	Warning: 	File has moved from https://www.collegedekho.com/mba_degree-colleges-in-india/ to /mba-degree-colleges-in-india-listing-2461-19163/
+23:35:23	Warning: 	Moved Permanently for https://www.collegedekho.com/mba_degree-marketing_management-colleges-in-delhi/
+23:35:23	Warning: 	File has moved from https://www.collegedekho.com/mba_degree-marketing_management-colleges-in-delhi/ to /mba-degree-marketing-management-colleges-in-delhi-listing-2461-1985-1740/
+23:35:41	Warning: 	Moved Permanently for https://www.collegedekho.com/mba_degree-colleges-in-mumbai/
+23:35:41	Warning: 	File has moved from https://www.collegedekho.com/mba_degree-colleges-in-mumbai/ to /mba-degree-colleges-in-mumbai-listing-2461-237/
+23:41:22	Warning: 	Permanent Redirect for https://www.collegedekho.com/colleges/android-app://com.collegedekho.app/https/www.collegedekho.com/fragment_institute_list/institutes/33417/
+23:41:22	Warning: 	File has moved from https://www.collegedekho.com/colleges/android-app://com.collegedekho.app/https/www.collegedekho.com/fragment_institute_list/institutes/33417/ to /colleges/android-app:/com.collegedekho.app/https/www.collegedekho.com/fragment_institute_list/institutes/33417
+23:51:50	Warning: 	Link https://www.collegedekho.com/reviews/add-and-earn?institute-id=33417 not scanned (follow robots meta tag)
+00:08:06	Warning: 	Permanent Redirect for https://www.collegedekho.com/colleges/android-app://com.collegedekho.app/https/www.collegedekho.com/fragment_institute_list/institutes/39206/
+00:08:06	Warning: 	File has moved from https://www.collegedekho.com/colleges/android-app://com.collegedekho.app/https/www.collegedekho.com/fragment_institute_list/institutes/39206/ to /colleges/android-app:/com.collegedekho.app/https/www.collegedekho.com/fragment_institute_list/institutes/39206
+00:14:14	Warning: 	Link https://www.collegedekho.com/reviews/add-and-earn?institute-id=39206 not scanned (follow robots meta tag)
+00:27:25	Error: 	"Not Found" (404) at link https://www.collegedekho.com/bsc-microbiology-science-colleges-in-gujarat-listing-2391-2040-1742/ (from https://www.collegedekho.com/colleges/parul-university)
+00:27:52	Warning: 	Moved Permanently for https://www.collegedekho.com/medical/nursing-colleges-in-gujarat/
+00:27:52	Warning: 	File has moved from https://www.collegedekho.com/medical/nursing-colleges-in-gujarat/ to /nursing-care/nursing-colleges-in-gujarat/
+07:00:56	Error: 	"Not Found" (404) at link https://www.collegedekho.com/bsc-microbiology-science-colleges-in-vadodara-listing-2391-2040-104/ (from https://www.collegedekho.com/colleges/parul-university)
+07:01:06	Warning: 	Permanent Redirect for https://www.collegedekho.com/colleges/android-app://com.collegedekho.app/https/www.collegedekho.com/fragment_institute_list/institutes/1026/
+07:01:06	Warning: 	File has moved from https://www.collegedekho.com/colleges/android-app://com.collegedekho.app/https/www.collegedekho.com/fragment_institute_list/institutes/1026/ to /colleges/android-app:/com.collegedekho.app/https/www.collegedekho.com/fragment_institute_list/institutes/1026
+07:03:01	Warning: 	Link https://www.collegedekho.com/reviews/add-and-earn?institute-id=1026 not scanned (follow robots meta tag)
+07:03:02	Error: 	"Not Found" (404) at link https://img.youtube.com/vi/39uHV_rcawc?si=D4qNj-NfB-YwBwlr/hqdefault.jpg?width=640&q=80 (from https://www.collegedekho.com/colleges/k-r-mangalam-university)
+07:14:55	Warning: 	Moved Permanently for https://www.collegedekho.com/medical/nursing-colleges-in-haryana/
+07:14:55	Warning: 	File has moved from https://www.collegedekho.com/medical/nursing-colleges-in-haryana/ to /nursing-care/nursing-colleges-in-haryana/
+07:21:19	Error: 	"Not Found" (404) at link https://www.collegedekho.com/bsc-biotechnology-2-colleges-in-gurgaon-listing-2391-3558-110/ (from https://www.collegedekho.com/colleges/k-r-mangalam-university)
+07:21:47	Warning: 	Permanent Redirect for https://www.collegedekho.com/colleges/android-app://com.collegedekho.app/https/www.collegedekho.com/fragment_institute_list/institutes/729/
+07:21:47	Warning: 	File has moved from https://www.collegedekho.com/colleges/android-app://com.collegedekho.app/https/www.collegedekho.com/fragment_institute_list/institutes/729/ to /colleges/android-app:/com.collegedekho.app/https/www.collegedekho.com/fragment_institute_list/institutes/729
+07:25:08	Warning: 	Link https://www.collegedekho.com/reviews/add-and-earn?institute-id=729 not scanned (follow robots meta tag)
+07:29:01	Warning: 	Permanent Redirect for https://www.collegedekho.com/colleges/android-app://com.collegedekho.app/https/www.collegedekho.com/fragment_institute_list/institutes/40227/
+07:29:01	Warning: 	File has moved from https://www.collegedekho.com/colleges/android-app://com.collegedekho.app/https/www.collegedekho.com/fragment_institute_list/institutes/40227/ to /colleges/android-app:/com.collegedekho.app/https/www.collegedekho.com/fragment_institute_list/institutes/40227
+07:30:35	Warning: 	Link https://www.collegedekho.com/reviews/add-and-earn?institute-id=40227 not scanned (follow robots meta tag)
