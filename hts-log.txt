@@ -455,3 +455,7 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 09:41:56	Warning: 	Permanent Redirect for https://www.collegedekho.com/colleges/android-app://com.collegedekho.app/https/www.collegedekho.com/fragment_institute_list/institutes/3271/
 09:41:56	Warning: 	File has moved from https://www.collegedekho.com/colleges/android-app://com.collegedekho.app/https/www.collegedekho.com/fragment_institute_list/institutes/3271/ to /colleges/android-app:/com.collegedekho.app/https/www.collegedekho.com/fragment_institute_list/institutes/3271
 09:42:23	Warning: 	Link https://www.collegedekho.com/reviews/add-and-earn?institute-id=3271 not scanned (follow robots meta tag)
+09:57:08	Warning: 	Moved Permanently for https://www.collegedekho.com/colleges-in-kolkata_2/
+09:57:08	Warning: 	File has moved from https://www.collegedekho.com/colleges-in-kolkata_2/ to /colleges-in-kolkata-2-listing-23307/
+09:57:10	Warning: 	Permanent Redirect for https://www.collegedekho.com/colleges/android-app://com.collegedekho.app/https/www.collegedekho.com/fragment_institute_list/institutes/12901/
+09:57:10	Warning: 	File has moved from https://www.collegedekho.com/colleges/android-app://com.collegedekho.app/https/www.collegedekho.com/fragment_institute_list/institutes/12901/ to /colleges/android-app:/com.collegedekho.app/https/www.collegedekho.com/fragment_institute_list/institutes/12901
