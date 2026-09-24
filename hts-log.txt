@@ -443,3 +443,4 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 07:52:02	Warning: 	Link https://www.collegedekho.com/reviews/add-and-earn?institute-id=816 not scanned (follow robots meta tag)
 08:05:52	Warning: 	Permanent Redirect for https://www.collegedekho.com/colleges/android-app://com.collegedekho.app/https/www.collegedekho.com/fragment_institute_list/institutes/4099/
 08:05:52	Warning: 	File has moved from https://www.collegedekho.com/colleges/android-app://com.collegedekho.app/https/www.collegedekho.com/fragment_institute_list/institutes/4099/ to /colleges/android-app:/com.collegedekho.app/https/www.collegedekho.com/fragment_institute_list/institutes/4099
+08:11:49	Warning: 	Link https://www.collegedekho.com/reviews/add-and-earn?institute-id=4099 not scanned (follow robots meta tag)
