@@ -447,3 +447,5 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 08:31:47	Warning: 	Permanent Redirect for https://www.collegedekho.com/colleges/android-app://com.collegedekho.app/https/www.collegedekho.com/fragment_institute_list/institutes/39260/
 08:31:47	Warning: 	File has moved from https://www.collegedekho.com/colleges/android-app://com.collegedekho.app/https/www.collegedekho.com/fragment_institute_list/institutes/39260/ to /colleges/android-app:/com.collegedekho.app/https/www.collegedekho.com/fragment_institute_list/institutes/39260
 08:34:04	Warning: 	Link https://www.collegedekho.com/reviews/add-and-earn?institute-id=39260 not scanned (follow robots meta tag)
+09:35:30	Warning: 	Moved Permanently for https://www.collegedekho.com/medical/nursing-colleges-in-rajasthan/
+09:35:30	Warning: 	File has moved from https://www.collegedekho.com/medical/nursing-colleges-in-rajasthan/ to /nursing-care/nursing-colleges-in-rajasthan/
